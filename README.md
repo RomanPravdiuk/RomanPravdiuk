@@ -12,7 +12,7 @@ I'm  Roman Pravdiuk, QA Engineer.
 | CI tools   |  [GIT](https://github.com/RomanPravdiuk/GIT)  |
 | Relational DB   | [SQL](https://github.com/RomanPravdiuk/SQL), [DBeaver](https://github.com/RomanPravdiuk/SQL)  |
 | Non-relational DB   | [MongoDB](https://github.com/RomanPravdiuk/NoSQL), [Studio 3T](https://github.com/RomanPravdiuk/NoSQL)  |
-| Issue trackers   | [Jira](https://github.com/RomanPravdiuk/JIRA), TestRail   |
+| Issue trackers   | [Jira](https://github.com/RomanPravdiuk/JIRA), [TestRail](https://github.com/RomanPravdiuk/TestRail)   |
 | Methodologies   | [Agile, Scrum, Kanban, Scrumban](https://github.com/RomanPravdiuk/Agile-Scrum-Kanban-Scrumban) |
 | Data formats   | [JSON](https://github.com/RomanPravdiuk/JSON)  |
 | Web   | [HTML, CSS](https://github.com/RomanPravdiuk/HTML-CSS), [Cache, Cookie, Local storage ](https://github.com/RomanPravdiuk/Cache-Cookie-Local-storage) |
