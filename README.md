@@ -10,8 +10,8 @@ I'm  Roman Pravdiuk, QA Engineer.
 | Networks   | [HTTP, Client-server architecture, OSI model](https://github.com/RomanPravdiuk/HTTP-Client-server-architecture-OSI-model)  |
 | Tools   | Chrome DevTools, [Postman](https://github.com/RomanPravdiuk/Postman), Swagger  |
 | CI tools   |  [GIT](https://github.com/RomanPravdiuk/GIT)  |
-| Relational DB   | [SQL](https://github.com/RomanPravdiuk/SQL), DBeaver  |
-| Non-relational DB   | [MongoDB](https://github.com/RomanPravdiuk/NoSQL), Studio 3T  |
+| Relational DB   | [SQL](https://github.com/RomanPravdiuk/SQL), [DBeaver](https://github.com/RomanPravdiuk/SQL)  |
+| Non-relational DB   | [MongoDB](https://github.com/RomanPravdiuk/NoSQL), [Studio 3T](https://github.com/RomanPravdiuk/NoSQL)  |
 | Issue trackers   | Jira, TestRail   |
 | Methodologies   | [Agile, Scrum, Kanban, Scrumban](https://github.com/RomanPravdiuk/Agile-Scrum-Kanban-Scrumban) |
 | Data formats   | JSON  |
