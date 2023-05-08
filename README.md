@@ -52,7 +52,7 @@ Successfully completed [Advanced Software Testing Course under personal supervis
 
 <div id="badges">
 
-[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/roman-pravdyuk-qa/overlay/contact-info/)
+[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/roman-pravdyuk-qa/)
  
 <div id="badges">
 
