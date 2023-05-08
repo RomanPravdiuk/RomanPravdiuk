@@ -1,34 +1,26 @@
 # Hello and welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-I'm  Oleksii Lobanov, QA Engineer. 
+I'm  Roman Pravdiuk, QA Engineer. 
 
 #### Skills:
 
-| Testing | [Theory, test design techniques](https://github.com/AlexeyLobanov1/Theory-test-design-techniques.git) |
+| Testing | [Theory, test design techniques](https://github.com/RomanPravdiuk/Theory-test-design-techniques) |
 | :----------------- | :------------------ |
-| Documentation   | [Test cases](https://github.com/AlexeyLobanov1/Test-cases.git), [checklists](https://github.com/AlexeyLobanov1/Checklists.git), [bug reports](https://github.com/AlexeyLobanov1/bug-reports.git)  |
-| Networks   | [HTTP, Client-server architecture, OSI model](https://github.com/AlexeyLobanov1/HTTP-Client-server-architecture-OSI-model.git)  |
-| Tools   | Chrome DevTools, [Postman](https://github.com/AlexeyLobanov1/Postman.git), Swagger  |
-| CI tools   |  [GIT](https://github.com/AlexeyLobanov1/GIT.git)  |
-| Relational DB   | [SQL](https://github.com/AlexeyLobanov1/SQL.git), DBeaver  |
-| Non-relational DB   | [MongoDB](https://github.com/AlexeyLobanov1/MongoDB.git), Studio 3T  |
+| Documentation   | [Test cases](https://github.com/RomanPravdiuk/Test-cases), [checklists](https://github.com/RomanPravdiuk/Checklists), [bug reports](https://github.com/RomanPravdiuk/Bug-reports)  |
+| Networks   | [HTTP, Client-server architecture, OSI model](https://github.com/RomanPravdiuk/HTTP-Client-server-architecture-OSI-model)  |
+| Tools   | Chrome DevTools, [Postman](https://github.com/RomanPravdiuk/Postman), Swagger  |
+| CI tools   |  [GIT](https://github.com/RomanPravdiuk/GIT)  |
+| Relational DB   | [SQL](https://github.com/RomanPravdiuk/SQL), DBeaver  |
+| Non-relational DB   | [MongoDB](https://github.com/RomanPravdiuk/NoSQL), Studio 3T  |
 | Issue trackers   | Jira, TestRail   |
-| Methodologies   | [Agile, Scrum, Kanban, Scrumban](https://github.com/AlexeyLobanov1/Agile-Scrum-Kanban-Scrumban.git) |
+| Methodologies   | [Agile, Scrum, Kanban, Scrumban](https://github.com/RomanPravdiuk/Agile-Scrum-Kanban-Scrumban) |
 | Data formats   | JSON  |
-| Web   | [HTML, CSS](https://github.com/AlexeyLobanov1/HTML-CSS.git), [Cache, Cookie, Local storage ](https://github.com/AlexeyLobanov1/Cache-Cookie-Local-storage.git) |
+| Web   | [HTML, CSS](https://github.com/RomanPravdiuk/HTML-CSS), [Cache, Cookie, Local storage ](https://github.com/RomanPravdiuk/Cache-Cookie-Local-storage) |
 | Languages   | English, Ukrainian  |
 
 ---
 
 #### Experience:
-[Admiral Studios](https://admiral-studios.com/) - February 2022 - present
-* Fulfilled the role of the first QA in the company with 12 developers.
-* Set up QA testing processes on three projects from scratch.
-* Successfully tested two web projects in parallel with 100% requirements test coverage.
-* Executed Shift-left testing starting from designs and requirements which resulted in preventing 30% of bugs.
-* Created checklists to reduce time on regression testing by 20%.
-* Read 4 books on Software Testing.
-
 
 ---
 
@@ -60,9 +52,9 @@ Successfully completed [Advanced Software Testing Course under personal supervis
 
 <div id="badges">
 
-[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alexey-lobanov-qa/)
+[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/roman-pravdyuk-qa/overlay/contact-info/)
  
 <div id="badges">
 
-[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/alexeyLobanov1)
+[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/RomanPravdiukQA)
 
