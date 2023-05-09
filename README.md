@@ -26,7 +26,7 @@ I'm  Roman Pravdiuk, QA Engineer.
 
 ### Education:
 
-Successfully completed [Advanced Software Testing Course under personal supervision of a mentor.](https://ilarionhalushka.github.io/certificates/Oleksii-Lobanov#certificate-of-completion-)
+Successfully completed [Advanced Software Testing Course under personal supervision of a mentor.](https://ilarionhalushka.github.io/certificates/Roman-Pravdiuk#certificate-of-completion-)
 
 ---
 
