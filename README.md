@@ -22,6 +22,8 @@ I'm  Roman Pravdiuk, QA Engineer.
 
 #### Experience:
 
+Galaktica: December 2022 - April 2023
+
 ---
 
 ### Education:
