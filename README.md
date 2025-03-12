@@ -23,8 +23,11 @@ I'm  Roman Pravdiuk, QA Engineer.
 #### Experience:
 
 <br>Admiral Studios: June 2023 - Present
+
 <br>Galaktica: April 2022 – June 2023
+
 <br>Plutarch-M: March 2021 – February 2022
+
 
 ---
 
