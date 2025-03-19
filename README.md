@@ -9,7 +9,7 @@ I'm  Roman Pravdiuk, QA Engineer.
 | Documentation   | [Test cases](https://github.com/RomanPravdiuk/Test-cases), [checklists](https://github.com/RomanPravdiuk/Checklists), [bug reports](https://github.com/RomanPravdiuk/Bug-reports)  |
 | Networks   | [HTTP, Client-server architecture, OSI model](https://github.com/RomanPravdiuk/HTTP-Client-server-architecture-OSI-model)  |
 | Tools   | [Chrome DevTools](https://github.com/RomanPravdiuk/Chrome-DevTools), [Postman](https://github.com/RomanPravdiuk/Postman), [Swagger](https://github.com/RomanPravdiuk/swaggerhub)  |
-| CI tools   |  [GIT](https://github.com/RomanPravdiuk/GIT)  |
+| CI tools   |  [GIT](https://github.com/RomanPravdiuk/GIT)  | [BASH]
 | Relational DB   | [SQL](https://github.com/RomanPravdiuk/SQL), [DBeaver](https://github.com/RomanPravdiuk/SQL)  |
 | Non-relational DB   | [MongoDB](https://github.com/RomanPravdiuk/NoSQL), [Studio 3T](https://github.com/RomanPravdiuk/NoSQL)  |
 | Issue trackers   | [Jira](https://github.com/RomanPravdiuk/JIRA), [TestRail](https://github.com/RomanPravdiuk/TestRail)   |
@@ -22,9 +22,9 @@ I'm  Roman Pravdiuk, QA Engineer.
 
 #### Experience:
 
-<br>Admiral Studios: June 2023 - Present
+<br>Admiral Studios: April 2023 - Present
 
-<br>Plutarch-M: March 2021 – February 2022
+<br>Plutarch-M: September 2021 – January 2023
 
 ---
 
